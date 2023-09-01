@@ -1,9 +1,9 @@
 # HIG-Components_Contents
 
-1. [Charts](##Charts (onGoing))
+1. [Charts](#Charts-(onGoing))
 
-2. [Image Views](##Image views)
-3. [Text Views](##Text views)
+2. [Image Views](#Image views)
+3. [Text Views](#Text views)
 
 
 
