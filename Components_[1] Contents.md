@@ -1,4 +1,4 @@
-# HIG-Components_Contents
+# HIG-Components_[1] Contents
 
 1. [Charts](#Charts-(onGoing))
 
