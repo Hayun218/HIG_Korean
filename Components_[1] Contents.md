@@ -1,23 +1,24 @@
-# HIG-Components_[1] Contents
+# Components_[1] Contents
 
 1. [Charts](#Charts-(onGoing))
 
-2. [Image Views](#Image-views)
-3. [Text Views](#Text-views)
+2. [Image views](#Image-views)
+3. [Text views](#Text-views)
+4. [Web views (not yet)](#Web-views)
 
 
 
 ## Charts (onGoing)
 
-- 데이터를 차트로 정리하여 명확성과 시각적 어필하면서 소통
+##### 명확성과 시각적 어필하면서 소통하기 위해 데이터를 차트로 정리
 
 ![Charts](https://docs-assets.developer.apple.com/published/e60ec631128010abf4cf09793552a20a/components-charts-intro@2x.png)
 
-- 효과적인 차트는 데이터셋에서 몇몇개의 정보만 강조함으로써, 사람들이 인사이트를 얻고 결정을 내리도록 도와준다.
+- 효과적인 차트는 데이터셋에서 **몇몇개의 정보만 강조**함으로써, 사람들이 인사이트를 얻고 결정을 내리도록 도와준다.
 - 예를 들어, 사용자가 차트를 사용하는 목적은 아래와 같다:
   - 기상예보를 보고 계획을 짜는 행위
   - 과거 행적과 현 트랜드를 발견하여 주식 추이를 분석
-  - 현재 행적과 새로운 목표를 설정하기 위해 피트니스 데이터를 리ㅂ
+  - 현재 행적과 새로운 목표를 설정하기 위해 피트니스 데이터를 배치
 
 ### Anatomy
 
@@ -43,13 +44,11 @@
 
 **Developer documentation**
 
-- **Swift Charts**
-
 
 
 ## Image views
 
-- 투명하거나 불투명한 배경에 하나 (경우에 따라서 이미지들의 애니메이션 효과 전환)을 보여주는 화면
+- 투명하거나 불투명한 배경에 하나 (경우에 따라서 이미지들의 애니메이션 효과 전환)를 보여주는 화면
 
 ![ImageViews](https://docs-assets.developer.apple.com/published/75a4736b08754bbd37dad68ddd0048b9/components-image-view-intro@2x.png)
 
@@ -57,11 +56,7 @@
 
 ### Best Practices
 
-- 뷰의 
-
-  주 목적이 단순하게 이미지를 보여주는 것
-
-  일 때 이미지 뷰를 사용한다.
+- 뷰의 주 목적이 단순하게 이미지를 보여주는 것 일 때 이미지 뷰를 사용한다.
 
   - 흔치 않은 경우에 이미지가 상호작용적으로 보이기 원할 때, 이미지 뷰에 버튼 역할을 추가하는 것이 아니라 시스템 제공 버튼을 통해 이미지를 보인다.
 
@@ -99,7 +94,7 @@
 
 ## Text views
 
-- 편집가능할 수도 있는 여러 줄, 스타일된 문자 내용을 비치
+##### 편집가능할 수도 있는 여러 줄, 스타일된 문자 내용을 비치
 
 ![TextViews](https://docs-assets.developer.apple.com/published/c626bcee9f9dc28ab4335f7163fd9062/components-text-view-intro@2x.png)
 
@@ -148,3 +143,8 @@
 [*Text*](<https://developer.apple.com/documentation/SwiftUI/Text>)
 [*UITextView*](<https://developer.apple.com/documentation/uikit/uitextview>)
 [NSTextView](<https://developer.apple.com/documentation/appkit/nstextview>)
+
+
+
+## Web views
+
